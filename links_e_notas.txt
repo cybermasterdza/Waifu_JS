@@ -1,0 +1,2 @@
+Link de teste online: https://htmlpreview.github.io/
+Link de acesso jquery: //ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
